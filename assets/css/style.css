@@ -10125,6 +10125,9 @@ div.btn-default.rounded-player.sm-size {
 .service.gallery-style .content .image img {
   border-radius: 5px;
 }
+.public-image{
+  margin-top: 35px;
+}
 .service.gallery-style .content .title {
   margin-bottom: 19px;
   font-weight: 600;
